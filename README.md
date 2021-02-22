@@ -19,3 +19,4 @@ Includes:
 * Analyzing Star Wars Survey
 * Visualizing Earnings Based On College Majors
 * Hypothesis Testing: Winning Jeopardy
+* Data Science workflow: Creating a Kaggle Workflow
